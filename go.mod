@@ -3,7 +3,7 @@ module github.com/ResurgenceIT/kit/v6
 go 1.16
 
 require (
-	github.com/ResurgenceIT/fireplace/v2 v2.0.2
+	github.com/app-nerds/fireplace/v2 v2.0.2 // indirect
 	github.com/dustin/go-humanize v1.0.0
 	github.com/globalsign/mgo v0.0.0-20181015135952-eeefdecb41b8
 	github.com/golang-jwt/jwt v3.2.2+incompatible
