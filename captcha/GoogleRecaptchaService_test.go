@@ -13,8 +13,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/app-nerds/kit/v6/captcha"
-	"github.com/app-nerds/kit/v6/restclient"
+	"github.com/ResurgenceIT/kit/v6/captcha"
+	"github.com/ResurgenceIT/kit/v6/restclient"
 )
 
 func TestNewGoogleRecaptchaService(t *testing.T) {

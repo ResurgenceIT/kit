@@ -9,7 +9,7 @@ This package provides services to add a captcha to your web applications. The fo
 ### Google ReCAPTCHA v2
 
 ```golang
-import "github.com/app-nerds/kit/v6/captcha"
+import "github.com/ResurgenceIT/kit/v6/captcha"
 
 captchaService := captcha.NewGoogleRecaptchaService(captcha.GoogleRecaptchaServiceConfig{
   CaptchaSecret: "secret",

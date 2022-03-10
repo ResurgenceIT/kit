@@ -5,7 +5,7 @@
 package logging
 
 import (
-	fireplacehook "github.com/app-nerds/fireplace/v2/cmd/fireplace-hook"
+	fireplacehook "github.com/ResurgenceIT/fireplace/v2/cmd/fireplace-hook"
 	"github.com/sirupsen/logrus"
 )
 

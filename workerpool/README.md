@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/app-nerds/kit/v6/workerpool"
+	"github.com/ResurgenceIT/kit/v6/workerpool"
 )
 
 type Job struct {

@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/app-nerds/kit/v6/restclient"
+	"github.com/ResurgenceIT/kit/v6/restclient"
 )
 
 /*

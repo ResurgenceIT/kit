@@ -12,7 +12,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/app-nerds/kit/v6/restclient/responsegetter"
+	"github.com/ResurgenceIT/kit/v6/restclient/responsegetter"
 )
 
 /*
@@ -39,7 +39,7 @@ func NewJSONClient(baseURL string, httpClient HTTPClientInterface) JSONClient {
 }
 
 /*
-DELETE performs an HTTP DELETE operation. You provide a path, which should exclude 
+DELETE performs an HTTP DELETE operation. You provide a path, which should exclude
 the TLD, as this is defined in BaseURL. If your request requires authorization
 call WithAuthorization first, then DELETE.
 

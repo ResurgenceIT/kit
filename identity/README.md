@@ -8,7 +8,7 @@ This package details with common identity-related issues, such as logging in and
 package main
 
 import (
-   "github.com/app-nerds/kit/v6/identity"
+   "github.com/ResurgenceIT/kit/v6/identity"
    "github.com/golang-jwt/jwt"
 )
 

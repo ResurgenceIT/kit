@@ -7,7 +7,7 @@ package database_test
 import (
 	"testing"
 
-	"github.com/app-nerds/kit/v6/database"
+	"github.com/ResurgenceIT/kit/v6/database"
 )
 
 var address string = "localhost:27017"

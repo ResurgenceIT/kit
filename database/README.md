@@ -13,7 +13,7 @@ usage.
 package main
 
 import (
-	"github.com/app-nerds/kit/v6/database"
+	"github.com/ResurgenceIT/kit/v6/database"
 	"github.com/globalsign/mgo/bson"
 )
 
@@ -50,7 +50,7 @@ import (
 	"testing"
 
 	"pkg/example"
-	"github.com/app-nerds/kit/v6/database"
+	"github.com/ResurgenceIT/kit/v6/database"
 )
 
 func TestSomeFunc(t *testing.T) {

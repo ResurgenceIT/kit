@@ -8,7 +8,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/app-nerds/kit/v6/database"
+	"github.com/ResurgenceIT/kit/v6/database"
 	"github.com/globalsign/mgo"
 	"github.com/globalsign/mgo/bson"
 	"golang.org/x/crypto/acme/autocert"

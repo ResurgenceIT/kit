@@ -21,7 +21,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/app-nerds/kit/v6/images"
+	"github.com/ResurgenceIT/kit/v6/images"
 )
 
 func main() {
@@ -75,7 +75,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/app-nerds/kit/v6/images"
+	"github.com/ResurgenceIT/kit/v6/images"
 )
 
 func main() {
@@ -140,7 +140,7 @@ import (
 	"bytes"
 	"os"
 
-	"github.com/app-nerds/kit/v6/images"
+	"github.com/ResurgenceIT/kit/v6/images"
 )
 
 func main() {
@@ -189,7 +189,7 @@ import (
 	"bytes"
 	"os"
 
-	"github.com/app-nerds/kit/v6/images"
+	"github.com/ResurgenceIT/kit/v6/images"
 )
 
 func main() {
